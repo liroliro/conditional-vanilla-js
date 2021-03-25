@@ -30,4 +30,4 @@ document.getElementById('button-b').addEventListener('click', () => {
 const updateRender = () =>
 	(document.getElementById('container').innerHTML = greeting);
 
-document.getElementById('container').innerHTML = greeting;
+updateRender();
