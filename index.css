@@ -1,0 +1,14 @@
+.container {
+	margin: 0 auto;
+	max-width: 844px;
+	text-align: center;
+}
+
+.container__button {
+	background: none;
+	border: 1px dotted blueviolet;
+	cursor: pointer;
+	font-size: 3rem;
+	margin: 2rem;
+	padding: 3rem;
+}
